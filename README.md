@@ -13,6 +13,10 @@ Un MOOC (Massive Open Online Course, por sus siglas en inglés) es un tipo de cu
 El objetivo de este proyecto es analizar las plataformas de MOOCs (Udemy, UDX y Coursera) con el propósito de evaluar el terreno para un posible competidor interesado en ingresar al mercado. Se analizarán datos sobre los modelos de negocio, enfoques educativos y características clave de estas plataformas. A través de un análisis comparativo de contenido, precios, popularidad y calidad de los cursos, se identificarán las fortalezas y debilidades de cada una. Los resultados se presentarán junto con recomendaciones estratégicas para una entrada efectiva en el mercado de los MOOCs.
 
 ------------
+Tecnologias Usadas:
+1. python
+5. power BI
+------------
 ### Contenido del repositorio:
 1.  **ETL:** Notebook donde se realizó un pequeño proceso de extracción, transformación y carga (ETL).
 1.  **EDA:** Notebook donde se llevó a cabo el análisis exploratorio de datos y se realizaron modificaciones adicionales a los archivos CSV.
